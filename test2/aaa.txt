@@ -1,0 +1,12 @@
+aaa.py
+aaa.py
+aaa.txt
+aaa.py
+aaa.txt
+ aaa.py  | 26 --------------------------
+ aaa.txt |  0
+ 2 files changed, 26 deletions(-)
+aaa.py
+aaa.txt
+D	aaa.py
+D	aaa.txt

@@ -22,5 +22,5 @@ def find_path(dir, name):
 
 
 if __name__ == '__main__':
-    a = find_path(".", "aaa.py")
+    a = find_path("..", "aaa.py")
     print(a)
