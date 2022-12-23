@@ -1,0 +1,4 @@
+D	.idea/vcs.xml
+R100	test2/aa.txt	aa.txt
+D	test/aaa.py
+D	test2/aaa.txt
